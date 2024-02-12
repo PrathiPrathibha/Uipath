@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Username",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "hoUMm-Fzy0ez4WMQ_NVjVA",
+  "Reference": "zBM3qr4whkWvQfvnFQuWag/hoUMm-Fzy0ez4WMQ_NVjVA",
+  "ParentRef": "zBM3qr4whkWvQfvnFQuWag/J8ECrVewvUCPfIExQuHEnw",
+  "Created": "2024-02-01T09:31:02.1878617Z",
+  "Updated": "2024-02-01T09:31:02.1878617Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

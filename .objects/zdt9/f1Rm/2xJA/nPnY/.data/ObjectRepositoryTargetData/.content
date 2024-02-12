@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nb4O-WbD40ecs_GMifOirA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.amazon.in/ap/signin" CvElementArea="781, 412, 376, 44" CvType="InputBox" DesignTimeRectangle="784, 414, 370, 39" DesignTimeScaleFactor="1.25" ElementType="InputBoxPassword" FriendlyName="'INPUT ap_password'" FullSelectorArgument="&lt;webctrl id='ap_password' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='ap_password' tag='INPUT' type='password' class='a-input-text a-span12 auth-autofocus auth-required-field' aaname='                                 Password                                      ' /&gt;" Guid="5bd3dfa0-1690-4108-895c-6cf59b812860" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon Sign In' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="784, 391, 73, 16" CvTextArgument="Password" CvType="Text" DesignTimeRectangle="784, 388, 150, 26" ElementType="Text" FriendlyName="'Password'" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='a-form-label' aaname='                                 Password                                      ' check:innerText='Password' /&gt;" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dcd14b6fb0930ed7764116384ddfd95c.png" xmlns="">0_M--eRDdCUGFw8rtqtiu9w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="a5DCZzAFQUmmM4iPAMktAQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.saucedemo.com/v1/" CvElementArea="500, 405, 443, 51" CvType="InputBox" DesignTimeRectangle="509, 403, 432, 52" DesignTimeScaleFactor="1.25" ElementType="InputBox" FriendlyName="'INPUT user-name'" FullSelectorArgument="&lt;webctrl id='user-name' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='user-name' tag='INPUT' type='text' class='form_input' aaname='' /&gt;" Guid="92bfbe83-87e8-4d0a-ba85-1ea119ae853c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Swag Labs' /&gt;" SearchSteps="FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f1260765e4b4faf44c29a77876285b9b.png" xmlns="">03mfy8cCBXkmvPM2_lDpfiQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

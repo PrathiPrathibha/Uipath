@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Amazon",
+  "Type": "App",
+  "Id": "zdt9RMlqrEOrU-YkJzls9g",
+  "Reference": "zBM3qr4whkWvQfvnFQuWag/zdt9RMlqrEOrU-YkJzls9g",
+  "Created": "2024-02-05T08:59:12.4154403Z",
+  "Updated": "2024-02-05T08:59:12.4154403Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

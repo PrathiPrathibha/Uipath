@@ -1,0 +1,16 @@
+﻿{
+  "Name": "TextboxEmail",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "ke8VaFN2RECnGp33nwebow",
+  "Reference": "zBM3qr4whkWvQfvnFQuWag/ke8VaFN2RECnGp33nwebow",
+  "ParentRef": "zBM3qr4whkWvQfvnFQuWag/2xJAi5AhLEeRwTbZcmo4VA",
+  "Created": "2024-02-05T09:03:33.5303255Z",
+  "Updated": "2024-02-05T09:03:50.384515Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
